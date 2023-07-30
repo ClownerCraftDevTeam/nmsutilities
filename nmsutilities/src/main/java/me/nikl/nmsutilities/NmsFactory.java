@@ -1,5 +1,6 @@
 package me.nikl.nmsutilities;
 
+import nmsutilities.NmsUtility_1_20_R1;
 import org.bukkit.Bukkit;
 
 /**
@@ -50,6 +51,8 @@ public class NmsFactory {
                 return nmsUtility = new NmsUtility_1_18_R2();
             case "v1_19_R1":
                 return nmsUtility = new NmsUtility_1_19_R1();
+            case "v1_20_R1":
+                return nmsUtility = new NmsUtility_1_20_R1();
             default:
                 return null;
         }

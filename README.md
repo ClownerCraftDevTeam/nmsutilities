@@ -15,7 +15,7 @@ Version dependent utilities. Currently, supports all versions from 1.8 to 1.19.2
         <dependency>
             <groupId>me.nikl.nmsutilities</groupId>
             <artifactId>nmsutilities</artifactId>
-            <version>1.5.0</version>
+            <version>1.6.0</version>
         </dependency>
     </dependencies>
 ```
